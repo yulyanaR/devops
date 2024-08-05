@@ -1,3 +1,5 @@
 {
-    "buildCommand": "vite build"
+  "git": {
+    "deploymentEnabled": false
+  }
 }
